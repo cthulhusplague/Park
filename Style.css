@@ -1,0 +1,21 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-brand {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    background-color: grey;
+    top: 0px;
+    height: 60px;
+    color: white
+}
+
+.above {
+
+}
